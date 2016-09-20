@@ -18,7 +18,7 @@ You can find a description of how to write markdown *.md* files
 
 Examples should include code as:
 
-```
+```kotlin
 class Person(val id: Int, var name: String)
 ```
 
