@@ -10,6 +10,12 @@ Name of group
 * Second author
 * Third author if a third author exists
 
+## The feature
+
+A deeper description of the feature.
+Argue where this feature is usable and where it's not.
+Are there any requirements to version of android or to the device or provider.
+
 ## Examples of use
 
 Examples of use including examples.
@@ -48,6 +54,20 @@ Only include relevant examples, try to leave out code that doesn't explain the s
 In example code in Java it is quite ok to `throws Exception` in order to remove `try -- catch` blocks if they don't contribute
 to the explanation. Remember to include the Kotlin version also.
 It is a very good idea to refactor Kotlin code if it was generated from Java code.
+
+## Pitfalls and hacks
+
+Describe the pitfalls you have encountered when experimenting with the feature.
+Also describe hacks that will help you out where features behave oddly. Argue why it could not be done the *real* way.
+
+## List of sources
+
+List and rate the sources you have found with useful information about the feature.
+
+## List of dead ends
+
+List the sources to avoid when exploring the feature.
+Either because they are dead ends, waste of time or directly misleading.
 
 
 
