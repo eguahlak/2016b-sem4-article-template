@@ -19,7 +19,7 @@ Are there any requirements to version of android or to the device or provider.
 ## Examples of use
 
 Examples of use including examples.
-You can find a description of how to write markdown *.md* files
+You can find a description of how to write markdown `.md` files
 [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheatsheet")
 and [here](https://guides.github.com/features/mastering-markdown/ "Mastering Markdown")
 
