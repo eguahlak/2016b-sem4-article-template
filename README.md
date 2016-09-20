@@ -44,7 +44,10 @@ public class Person {
   }
 ```
 
-
+Only include relevant examples, try to leave out code that doesn't explain the subject.
+In example code in Java it is quite ok to `throws Exception` in order to remove `try -- catch` blocks if they don't contribute
+to the explanation. Remember to include the Kotlin version also.
+It is a very good idea to refactor Kotlin code if it was generated from Java code.
 
 
 
