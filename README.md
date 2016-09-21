@@ -63,9 +63,11 @@ Also describe hacks that will help you out where features behave oddly. Argue wh
 
 ## List of sources
 
+### Effective (good) sources
+
 List and rate the sources you have found with useful information about the feature.
 
-## List of dead ends
+### Dead end sources
 
 List the sources to avoid when exploring the feature.
 Either because they are dead ends, waste of time or directly misleading.
