@@ -30,7 +30,7 @@ class Person(val id: Int, var name: String)
 ```
 or
 ```java
-public class Person {
+public final class Person {
   private final int id;
   private String name;
   
